@@ -20,7 +20,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**CrossPaths**](https://github.com/vlad180520/CrossPaths) | iOS/Android app for discovering the people you cross paths with and connecting over shared interests. Built solo. | React Native · TypeScript · Supabase |
-| [**Router Dataplane**](https://github.com/vlad180520/Router-DataPlane) | Software router with IPv4 forwarding, longest prefix match over a binary trie, ARP resolution and ICMP. | C · Linux |
+| **Router Dataplane** | Software router with IPv4 forwarding, longest prefix match over a binary trie, ARP resolution and ICMP. | C · Linux |
 | **Reliable transport over UDP** | TCP-like protocol with a three-way handshake, a sliding window sized from the bandwidth-delay product, and multi-threaded connection handling. | C++ · pthreads · poll |
 | **Systems programming** | A mini-libc on raw Linux system calls, an ELF loader, and a multi-threaded packet filter. | C · POSIX |
 
